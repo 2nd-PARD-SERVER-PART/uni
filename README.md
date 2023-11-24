@@ -10,15 +10,21 @@
 ## 🔥 주요 기능
 <details>
   <summary>COMMENT</summary>
+  댓글 남기기 <br/>
   <img width="700" alt="leaveComment" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/91f0b162-8374-4ced-a9ac-a5dda95c0bff">
+  모든 댓글 불러오기 <br/>
   <img width="700" alt="getAllComments" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/0b493bef-7b5d-485a-b112-44f5a0e7e26e">
+  교수님 이름 필터를 통한 댓글 불러오기 <br/>
   <img width="700" alt="getCommentByProf" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/ddecdd18-89d7-496e-8a70-eefdecbe692f">
 </details>
 
 <details>
     <summary>RANKING</summary>
+교수님 인기 점수 올리기 <br/>
 <img width="700" alt="addScore" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/b4a65dfc-0fa3-4ce8-be32-f9a34e94870e">
+전체 시행 수 불러오기 <br/>
 <img width="700" alt="getAllCounts" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/067d72ee-dabc-4793-b248-0336907ed2bb">
+랭킹 불러오기 <br/>
 <img width="700" alt="getRanking" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/7c7aeacb-8fd9-4a1b-95dd-f4178d56f0da">
 </details>
 
