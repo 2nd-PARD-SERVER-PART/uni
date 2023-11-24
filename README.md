@@ -8,7 +8,6 @@
 <img width="150" alt="ranking" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/7072d7d8-db84-424c-b4a6-8c9015a2e544">
 
 ## 🔥 주요 기능
-### COMMENT
 <details>
   <summary>COMMENT</summary>
   <img width="700" alt="leaveComment" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/91f0b162-8374-4ced-a9ac-a5dda95c0bff">
@@ -16,7 +15,6 @@
   <img width="700" alt="getCommentByProf" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/ddecdd18-89d7-496e-8a70-eefdecbe692f">
 </details>
 
-### RANKING
 <details>
     <summary>RANKING</summary>
 <img width="700" alt="addScore" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/b4a65dfc-0fa3-4ce8-be32-f9a34e94870e">
