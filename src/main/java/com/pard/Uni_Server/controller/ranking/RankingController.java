@@ -26,6 +26,7 @@ public class RankingController {
         Ranking ranking = rankingRepository.findById(1L).orElse(null);
         ranking.setCount(ranking.getCount() + 1);
         rankingService.result(profName);
+        rankingRepository.save(ranking);
     }
 
     @GetMapping("")

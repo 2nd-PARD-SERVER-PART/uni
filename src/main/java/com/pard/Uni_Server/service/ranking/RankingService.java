@@ -14,10 +14,6 @@ public class RankingService {
     private final RankingRepository rankingRepository;
     private final ProfRepository profRepository;
 
-    /*
-    jc: 0, //남재창
-    sin: 0, //홍신
-    */
     public void result(String name) {
         String profName = "";
         switch (name) {
@@ -62,6 +58,7 @@ public class RankingService {
         Prof prof = profRepository.findByName(profName);
 
         prof.setScore(prof.getScore() + 1);
+        profRepository.save(prof);
     }
 
     public List<Prof> rank() {
@@ -69,10 +66,4 @@ public class RankingService {
 
         return profs;
     }
-
-//    private int entireCount() {
-//        Ranking ranking;
-//        return
-//    }
-
 }
