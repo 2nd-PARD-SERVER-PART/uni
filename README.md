@@ -11,16 +11,16 @@
 ### COMMENT
 <details>
   <summary>COMMENT</summary>
-  <img width="710" alt="leaveComment" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/91f0b162-8374-4ced-a9ac-a5dda95c0bff">
-  <img width="800" alt="getAllComments" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/0b493bef-7b5d-485a-b112-44f5a0e7e26e">
-  <img width="714" alt="getCommentByProf" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/ddecdd18-89d7-496e-8a70-eefdecbe692f">
+  <img width="700" alt="leaveComment" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/91f0b162-8374-4ced-a9ac-a5dda95c0bff">
+  <img width="700" alt="getAllComments" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/0b493bef-7b5d-485a-b112-44f5a0e7e26e">
+  <img width="700" alt="getCommentByProf" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/ddecdd18-89d7-496e-8a70-eefdecbe692f">
 </details>
 
 ### RANKING
 <details>
     <summary>RANKING</summary>
-<img width="708" alt="addScore" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/b4a65dfc-0fa3-4ce8-be32-f9a34e94870e">
-<img width="710" alt="getAllCounts" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/067d72ee-dabc-4793-b248-0336907ed2bb">
-<img width="709" alt="getRanking" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/7c7aeacb-8fd9-4a1b-95dd-f4178d56f0da">
+<img width="700" alt="addScore" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/b4a65dfc-0fa3-4ce8-be32-f9a34e94870e">
+<img width="700" alt="getAllCounts" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/067d72ee-dabc-4793-b248-0336907ed2bb">
+<img width="700" alt="getRanking" src="https://github.com/Club-PARD/WebETA_server/assets/141024382/7c7aeacb-8fd9-4a1b-95dd-f4178d56f0da">
 </details>
 
