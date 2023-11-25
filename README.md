@@ -1,5 +1,7 @@
 # UNI - 최애의 교수
 
+## 서비스 소개
+전공새내기들이 설문을 통해 잘맞는 한동대학교 전산전자공학부 교수님을 연결해 주는 서비스
 ## 🖥️ 기술 스택
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ## 📚 DB 구조
