@@ -32,7 +32,7 @@ public class RankingService {
             case "jung":
                 profName = "김인중";
                 break;
-            case "gwang":
+            case "kwang":
                 profName = "김광";
                 break;
             case "hong":
